@@ -12,13 +12,13 @@ LibraryMaster; C# WinForms tabanlı, Microsoft Access (.mdb) veritabanı altyap�
 *   :warning: **Gecikme Kontrolü:** Teslim tarihi geçen kitapların anlık takibi.
 *   :floppy_disk: **Hafif Veritabanı:** Kurulum gerektirmeyen MS Access (.mdb) altyapısı.
 
-## :tools: Kullanılan Teknolojiler
+## 🛠️ Kullanılan Teknolojiler
 
 *   **Dil:** C# (.NET Framework)
 *   **Veritabanı:** Microsoft Access (OleDb)
 *   **Arayüz:** WinForms
 
-## :camera_with_flash: Ekran Görüntüleri
+## 📸 Ekran Görüntüleri
 
 | Kitap Listesi | Emanet İşlemleri | Kitap Ekleme |
 | :---: | :---: | :---: |
